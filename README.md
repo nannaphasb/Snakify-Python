@@ -1,2 +1,12 @@
-# Snakify-Python
-Snakify Solutions 
+# Snakify Solutions
+- Section 1 : Input, print and numbers
+- Section 2 : Integer and float numbers
+- Section 3 : Conditions: If, then, else
+- Section 4 : For loop with range
+- Section 5 : Strings
+- Section 6 : While loop
+- Section 7 : Lists
+- Section 8 : Functions and recursion
+- Section 9 : Two-dimensional lists (array)
+- Section 10 : Sets
+- Section 11 : Dictionaries
